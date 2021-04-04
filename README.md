@@ -1,4 +1,5 @@
 # mineclone
 my game (developing)
-verson 0.01b
-in this update i added chunk rendering  and the world is now 100 chunks  wide 
+verson 0.02a
+in this update i added debug F1 menu and more
+
